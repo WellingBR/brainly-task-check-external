@@ -1,9 +1,9 @@
 {
-    "version": "1.0.3",
-    "updateLogs": {
-      "added": ["Agora é possível verificar a versão da extensão sendo usada.", "Botão de verificação de atualização criado. (Agora é possível saber se a versão está desatualizada)"],
-      "removed": [],
-      "modified": [],
-      "bugFixed": ["Correção no sistema de backup."]
-    }
+   "version": "1.0.3",
+   "updateLogs": {
+     "added": ["Agora é possível verificar a versão da extensão sendo usada.", "Botão de verificação de atualização criado. (Agora é possível saber se a versão está desatualizada)"],
+     "removed": [],
+     "modified": [],
+     "bugFixed": ["Correção no sistema de backup."]
+   }
 }
