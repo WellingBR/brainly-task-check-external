@@ -1,4 +1,13 @@
 # brainlyTaskCheckExternal
+
+- Adicionar/Remover tarefas
+- Buscar tarefas listadas pelos Administradores do Brainly
+- Ativar ou Desativar extensão
+- Fazer backup e restauração da sua configuração feita
+- Escolha o tipo de ação áo detectar as tarefas
+- Verificar versão atual e a última disponível
+- Analisa tarefas na ferramenta de moderação e também nos links de tarefas
+
 Lista de tarefas externas do Brainly para serem bloqueadas.
 
 Exemplo de configuração padrão:
